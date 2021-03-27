@@ -63,3 +63,7 @@ yarn-debug.log*
 
 # Ignore vim swapfiles
 # .*.swp
+
+# Ignore NixOS development files
+.direnv
+app.js
